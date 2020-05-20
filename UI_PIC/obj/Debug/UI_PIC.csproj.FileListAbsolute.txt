@@ -1,0 +1,5 @@
+C:\Users\heber\source\repos\Pic\UI_PIC\obj\Debug\UI_PIC.csprojAssemblyReference.cache
+C:\Users\heber\source\repos\Pic\UI_PIC\obj\Debug\Pic.FRMPessoa.resources
+C:\Users\heber\source\repos\Pic\UI_PIC\obj\Debug\Pic.Properties.Resources.resources
+C:\Users\heber\source\repos\Pic\UI_PIC\obj\Debug\UI_PIC.csproj.GenerateResource.cache
+C:\Users\heber\source\repos\Pic\UI_PIC\obj\Debug\UI_PIC.csproj.CoreCompileInputs.cache

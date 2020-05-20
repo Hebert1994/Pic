@@ -1,0 +1,2 @@
+C:\Users\heber\source\repos\Pic\BLL_PIC\obj\Debug\BLL_PIC.csprojAssemblyReference.cache
+C:\Users\heber\source\repos\Pic\BLL_PIC\obj\Debug\BLL_PIC.csproj.CoreCompileInputs.cache

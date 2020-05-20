@@ -1,0 +1,2 @@
+C:\Users\heber\source\repos\Pic\MODELO_PIC\obj\Debug\MODELO_PIC.csprojAssemblyReference.cache
+C:\Users\heber\source\repos\Pic\MODELO_PIC\obj\Debug\MODELO_PIC.csproj.CoreCompileInputs.cache
